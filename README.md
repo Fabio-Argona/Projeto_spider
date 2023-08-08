@@ -92,7 +92,7 @@ Se deseja alterar a porta padrão na qual a aplicação tentará subir, você po
 
 Agora você está pronto para explorar o projeto em seu ambiente local!
 
-## 👩‍💻 Autora
+## 👩‍💻 Instrutora
 
 <p>
     <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/55519539?v=4"/>
